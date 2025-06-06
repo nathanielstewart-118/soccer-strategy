@@ -56,3 +56,12 @@ Milestone: 'Linking game and player ratings as well as interface' Amount: € 20
 
 Milestone: 'Finished including documentation/manual with complete testing and final adjustments.' Amount: €40.00 EUR
 
+This specific game is probably no longer accessible without the link. Games can generally be found under...Game Operations - League/Cup/FS - Games. Scrolling down, you'll find the last 20 or so games. Clicking on the result will take you to the game and its individual link. This is also the link I want to feed the program.
+
+// sites where I can get player data.
+fminside.net/players
+sofascore.com/de
+fubin.com
+ea.com/de/games/ea-sports-fc/ratings
+football-lineups.com/
+futbin.com

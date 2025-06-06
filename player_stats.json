@@ -1,0 +1,47 @@
+{
+    "TECHNICAL": {
+        "total": 65,
+        "Corners": "75",
+        "Crossing": "75",
+        "Dribbling": "85",
+        "Finishing": "80",
+        "First Touch": "85",
+        "Free Kick Taking": "85",
+        "Heading": "55",
+        "Long Shots": "85",
+        "Long Throws": "20",
+        "Marking": "20",
+        "Passing": "85",
+        "Penalty Taking": "80",
+        "Tackling": "15",
+        "Technique": "95"
+    },
+    "MENTAL": {
+        "total": 65,
+        "Aggression": "45",
+        "Anticipation": "80",
+        "Bravery": "45",
+        "Composure": "65",
+        "Concentration": "55",
+        "Decisions": "70",
+        "Determination": "70",
+        "Flair": "90",
+        "Leadership": "55",
+        "Off the Ball": "70",
+        "Positioning": "20",
+        "Teamwork": "70",
+        "Vision": "85",
+        "Work Rate": "60"
+    },
+    "PHYSICAL": {
+        "total": 65,
+        "Acceleration": "70",
+        "Agility": "90",
+        "Balance": "90",
+        "Jumping Reach": "35",
+        "Natural Fitness": "55",
+        "Pace": "65",
+        "Stamina": "45",
+        "Strength": "50"
+    }
+}

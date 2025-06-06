@@ -1,0 +1,49 @@
+{
+    "Defensive": {
+        "Abgefangene B\u00e4lle": 21,
+        "Defensives Bewusstsein": 32,
+        "Faire Zweik\u00e4mpfe": 36,
+        "Gr\u00e4tsche": 44,
+        "Kopfball-Pr\u00e4zision": 44,
+        "total": 33
+    },
+    "Dribbling": {
+        "Balance": 82,
+        "Ballkontrolle": 69,
+        "Beweglichkeit": 83,
+        "Dribbling": 71,
+        "Reaktionen": 60,
+        "Ruhe": 66,
+        "total": 71
+    },
+    "Passen": {
+        "Effet": 52,
+        "Flanken": 51,
+        "Freisto\u00df-Pr\u00e4zision": 37,
+        "Kurze P\u00e4sse": 64,
+        "Lange P\u00e4sse": 59,
+        "total": 58,
+        "\u00dcbersicht": 61
+    },
+    "Physis": {
+        "Aggressivit\u00e4t": 66,
+        "Sprungkraft": 67,
+        "Stamina": 63,
+        "St\u00e4rke": 60,
+        "total": 62
+    },
+    "Sch\u00fcsse": {
+        "Abschluss": 60,
+        "Elfmeter": 49,
+        "Positionsspiel": 64,
+        "Schusskraft": 60,
+        "Volleys": 43,
+        "Weitsch\u00fcsse": 40,
+        "total": 55
+    },
+    "Tempo": {
+        "Beschleunigung": 91,
+        "Sprintgeschwindigkeit": 91,
+        "total": 91
+    }
+}
